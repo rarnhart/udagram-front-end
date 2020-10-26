@@ -6,7 +6,7 @@ metadata:
     run: udagram-front-end
 spec:
   ports:
-  - port: 8080
+  - port: 8100
     protocol: TCP
   selector:
     run: udagram-front-end

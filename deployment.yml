@@ -18,4 +18,4 @@ spec:
       - name: udagram-front-end
         image: dealio/udagram-front-end
         ports:
-        - containerPort: 8080
+        - containerPort: 8100
